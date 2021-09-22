@@ -1,9 +1,21 @@
 # Next.js + Tailwind CSS Airbnb Clone
 
-this is Airbnb clone made with Nextjs and Tailwind CSS
+# Installation Steps
 
-## Demo
+## Using npm
 
-https://airbnb-clone-two-indol.vercel.app/
+Run commands
 
-  
+1. `npm install`
+
+2. `npm run dev`
+
+## Or using yarn
+
+Run commands
+
+1. `npm install --global yarn`
+
+2. `yarn install`
+
+3. `yarn run dev`
